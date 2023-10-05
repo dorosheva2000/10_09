@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.AssemblyInfo.cs
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\bin\Debug\net6.0\10_09_hw60.exe
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\bin\Debug\net6.0\10_09_hw60.deps.json
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\bin\Debug\net6.0\10_09_hw60.runtimeconfig.json
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\bin\Debug\net6.0\10_09_hw60.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\bin\Debug\net6.0\10_09_hw60.pdb
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\refint\10_09_hw60.dll
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.pdb
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\10_09_hw60.genruntimeconfig.cache
+C:\Users\User\Desktop\Лекции GB\Lessons_cs\10_09\10_09_hw60\obj\Debug\net6.0\ref\10_09_hw60.dll
